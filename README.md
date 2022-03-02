@@ -17,6 +17,8 @@
 <img src="https://user-images.githubusercontent.com/79487813/156272941-63a52579-b623-49e4-af6a-e4c8a7554029.png"/>
 </P>
 
+<h3>- Testando APIs com aplicativo Postman e exportando o arquivo do Postman para pasta do projeto.
+
 
 
 
