@@ -13,11 +13,20 @@
 ✅ IDE para desenvolvimento Java (IntelliJ)<br>
 </p>
 
+<h3>- Testando APIs com aplicativo Postman e exportando o arquivo do Postman para pasta do projeto.
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/156272941-63a52579-b623-49e4-af6a-e4c8a7554029.png"/>
+<img src="https://user-images.githubusercontent.com/79487813/156278066-ef45e1db-3c57-4364-9e30-d414597bf943.png"/>
 </P>
 
-<h3>- Testando APIs com aplicativo Postman e exportando o arquivo do Postman para pasta do projeto.
+
+
+<h3>- Foi criado uma aplicação ao banco de dados MySQL e uso do Docker e docker composer.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/156477063-70fa5c44-e920-4288-aa2b-d891336ba2c1.png"/>
+</P>
+
 
 
 
